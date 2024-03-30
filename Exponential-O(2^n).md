@@ -1,6 +1,6 @@
 # Exponential time complexity O(2^n) 
 
-indicates that the time taken by an algorithm doubles with each additional element in the input. Such algorithms are often recursive, where each function call branches into two or more recursive calls. Here are some TypeScript examples demonstrating this concept:
+Indicates that the time taken by an algorithm doubles with each additional element in the input. Such algorithms are often recursive, where each function call branches into two or more recursive calls. Here are some TypeScript examples demonstrating this concept:
 
 ### 1. Fibonacci Sequence (Recursive)
 The Fibonacci sequence is a classic example where each call branches into two more calls.
