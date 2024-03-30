@@ -1,4 +1,6 @@
-Certainly! Quadratic time complexity, denoted as O(n²), typically appears in algorithms that involve nested iterations over the data. Common examples include simple sorting algorithms, algorithms that involve checking pairs of elements, and more. Here are ten examples in TypeScript:
+# Quadratic time complexity
+
+Algorithms that involve nested iterations over the data. Common examples include simple sorting algorithms, algorithms that involve checking pairs of elements, and more. Here are ten examples in TypeScript:
 
 ### 1. Bubble Sort
 This sorting algorithm repeatedly swaps adjacent elements if they are in the wrong order.
